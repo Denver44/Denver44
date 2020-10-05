@@ -12,6 +12,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -40,7 +41,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/durgesh-rai-988a371a6"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Durgesh%20Rai%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/durgesh_rai_04/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-durgeshrai04__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/durgesh_rai_04/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-durgeshrai04-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:durgeshrai2012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-durgeshrai2012@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

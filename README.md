@@ -3,9 +3,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Electrical Engineer From Gujarat Technological University.
+- 💡 &nbsp; Electrical Engineer From Gujarat Technological University.
 - 💼 &nbsp; I’m looking for a software development internship. 
-- 🌱 &nbsp; Learning more about Web Development, IOT ,and Machine Learning.
+- 💻 &nbsp; Learning more about Web Development, IOT ,and Machine Learning.
+- ❤️ &nbsp; Competitive Coding.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

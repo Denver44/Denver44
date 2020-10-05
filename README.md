@@ -2,11 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Electrical Engineer From Gujarat University of Technology.
+- 🤔 &nbsp; Exploring new technologies.
+- 🎓 &nbsp; Electrical Engineer From Gujarat Technological University.
 - 💼 &nbsp; I’m looking for a software development internship. 
 - 🌱 &nbsp; Learning more about Web Development, IOT ,and Machine Learning.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,7 +29,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/DurgeshRai04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgeshRai04&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshRai04&theme=buefy&layout=compact" />
 </a>

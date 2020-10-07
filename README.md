@@ -33,6 +33,15 @@
 
 <br/>
 
+# Competitive Coding Profile #
+
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/durgeshrai2012)	
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/durgeshrai2012/)
+[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/denver_44)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/durgeshrai2012)	
+
+<br/>
+
 <a href="https://github.com/DurgeshRai04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgeshRai04&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshRai04&theme=buefy&layout=compact" />

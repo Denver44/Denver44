@@ -38,7 +38,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/durgeshrai2012/)
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/denver_44)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Denver04)
-[![AtCoder](https://img.shields.io/badge/-AtCoder-ec6161?style=flat&labelColor=ec6161&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/Denver04?lang=en)	
+[![AtCoder](https://img.atcoder.jp/assets/icon/avatar.png-ec6161?style=flat&labelColor=ec6161&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/Denver04?lang=en)	
 
 
 <br/>

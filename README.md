@@ -4,10 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Electrical Engineer From Gujarat Technological University.
-- 🕵 &nbsp; Searching for a full time or internship for SDE position. 
 - 💻 &nbsp; Learning more about Web Development and  IOT.
-- ❤️ &nbsp; Competitive Coding.
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

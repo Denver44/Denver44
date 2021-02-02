@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Durgesh Rai 👋 </h1>
+<h1 align="center"> Hello 👋 </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

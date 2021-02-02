@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Electrical Engineer From Gujarat Technological University.
-- 💻 &nbsp; Learning more about Web Development and  IOT.
+- 💻 &nbsp; Learning more about Web Dev and  IOT.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

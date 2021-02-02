@@ -40,12 +40,5 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-<a href="https://www.linkedin.com/in/durgesh-rai-988a371a6"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Durgesh%20Rai%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/durgesh_rai_04/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-durgeshrai04-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:durgeshrai2012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-durgeshrai2012@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [Durgesh](https://github.com/DurgeshRai04)

@@ -21,7 +21,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Arduino](https://img.shields.io/badge/-Arduino%20-333333?style=flat&logo=Arduino&logoColor=1572B6)
-  ![Nodemcu](https://img.shields.io/badge/-Nodemcu%20-333333?style=flat&logo=Nodemcu&logoColor=f79200)
+  ![Nodemcu](https://img.shields.io/badge/-NodeMcu%20-333333?style=flat&logo=Arduino&logoColor=f79200)
   
 
 - 🛢 &nbsp;

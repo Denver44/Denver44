@@ -20,6 +20,8 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Arduino](https://img.shields.io/badge/-Arduino%20-333333?style=flat&logo=Arduino&logoColor=f79200)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

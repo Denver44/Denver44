@@ -33,6 +33,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text%20-333333?style=flat&logo=Sublime-Text&logoColor=f79200)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm%20-333333?style=flat&logo=Pycharm&logoColor=f79200)
   ![Arduino](https://img.shields.io/badge/-Arduino%20-333333?style=flat&logo=Arduino&logoColor=1572B6)
   ![Nodemcu](https://img.shields.io/badge/-NodeMcu%20-333333?style=flat&logo=Arduino&logoColor=f79200)
 

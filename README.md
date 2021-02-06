@@ -31,7 +31,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  [XAMPP](https://img.shields.io/badge/-XAMPP%20-333333?style=flat&logo=XAMPP)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP%20-333333?style=flat&logo=XAMPP)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text%20-333333?style=flat&logo=Sublime-Text&logoColor=f79200)
   ![Pycharm](https://img.shields.io/badge/-Pycharm%20-333333?style=flat&logo=Pycharm)

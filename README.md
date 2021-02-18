@@ -49,5 +49,5 @@
 <br/>
 
 
-⭐️ From [Denver](https://github.com/Denver44)  ![image title](https://github.com/Denver44/counter.svg)
+⭐️ From [Denver](https://github.com/Denver44)  
 

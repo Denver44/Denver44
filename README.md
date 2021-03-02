@@ -23,7 +23,7 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-Ui](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=Material-Ui&logoColor=563D7C)
+  ![Material-Ui](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=Material-Ui&logoColor=1572B6)
 
   
 

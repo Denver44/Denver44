@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
-- 💻 &nbsp;
+- 🧰 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

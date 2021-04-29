@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=buefy&layout=compact" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Denver44&repo=github-readme-stats)](https:https://github.com/Denver44/Smart-Trolley)
 
 
 <br/>

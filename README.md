@@ -33,6 +33,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 - ⚙️ &nbsp;
+- ![Linux](https://img.shields.io/badge/-Linux%20-333333?style=flat&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![XAMPP](https://img.shields.io/badge/-XAMPP%20-333333?style=flat&logo=XAMPP)
@@ -41,7 +42,6 @@
   ![Pycharm](https://img.shields.io/badge/-Pycharm%20-333333?style=flat&logo=Pycharm)
   ![Arduino](https://img.shields.io/badge/-Arduino%20-333333?style=flat&logo=Arduino&logoColor=1572B6)
   ![Nodemcu](https://img.shields.io/badge/-NodeMcu%20-333333?style=flat&logo=Arduino)
-  ![Linux](https://img.shields.io/badge/-Linux%20-333333?style=flat&logo=Linux)
 
 
 <br/>

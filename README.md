@@ -33,7 +33,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 - ⚙️ &nbsp;
-- ![Linux](https://img.shields.io/badge/-Linux%20-333333?style=flat&logo=Linux)
+  ![Linux](https://img.shields.io/badge/-Linux%20-333333?style=flat&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![XAMPP](https://img.shields.io/badge/-XAMPP%20-333333?style=flat&logo=XAMPP)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)

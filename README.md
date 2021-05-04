@@ -13,7 +13,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=linux)
 
   
 - 🧰 &nbsp;

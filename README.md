@@ -12,8 +12,9 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Shell](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Shell)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
 
   
 - 🧰 &nbsp;

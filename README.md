@@ -22,7 +22,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=vercel)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
   

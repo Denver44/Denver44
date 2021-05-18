@@ -21,8 +21,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=vercel)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=npm)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  ![NodeJs](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=npm)
+  ![ExpressJs](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
   

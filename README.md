@@ -53,7 +53,7 @@
 <br/>
 
 <a href="https://github.com/Denver44">
-  <img height="190em" width="368em" src="https://github-readme-stats.vercel.app/api?username=Denver44&theme=buefy&show_icons=true" />
+  <img height="210em" width="368em" src="https://github-readme-stats.vercel.app/api?username=Denver44&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=buefy&layout=compact" />
 </a>
 

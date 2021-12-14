@@ -1,66 +1,184 @@
 <h1 align="center"> Hello 👋 </h1>
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 💡 &nbsp; Electrical Engineer From GTU.
-- 💻 &nbsp; Learning more about Web Dev and  IOT.
+- 🧑 &nbsp; I'm a Programmer and Developer
+- 💻 &nbsp; Love to explore new tech
+- 💡 &nbsp; Electrical Engineer From GTU
+- 💬 &nbsp; Ask me about **React, JavaScript, Node.Js**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
-
-  
-- ⚔️ &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=vercel)
-  ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=npm)
-  ![ExpressJs](https://img.shields.io/badge/-ExpressJs-333333?style=flat&logo=express)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-
-  
-- 🧰 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-Ui](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=Material-Ui&logoColor=1572B6)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-
-  
-
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-
-- ⚙️ &nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux%20-333333?style=flat&logo=Linux)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![XAMPP](https://img.shields.io/badge/-XAMPP%20-333333?style=flat&logo=XAMPP)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Arduino](https://img.shields.io/badge/-Arduino%20-333333?style=flat&logo=Arduino&logoColor=1572B6)
-  ![Nodemcu](https://img.shields.io/badge/-NodeMcu%20-333333?style=flat&logo=Arduino)
-
+  <table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescript.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://redux.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center"  width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>MaterialUI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center"  width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://npmjs.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>NodeJs
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/" >
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJs" />
+      </a>
+      <br>ExpressJs
+    </td>
+    <td align="center" width="96">
+      <a href="https://nextjs.com/" >
+        <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="48" height="48" alt="NextJs" />
+      </a>
+      <br>NextJs
+    </td>
+    <td align="center" width="96">
+      <a href="https://flask.palletsprojects.com/en/2.0.x/" >
+        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="https://mongoDB.com/" >
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySql
+    </td>
+   <td align="center" width="96">
+      <a href="https://git-scm.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/" >
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.docker.com/" >
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+     <td align="center"  width="96">
+      <a href="https://www.linux.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.microsoft.com/en-us/powershell/">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="48" height="48" alt="bash" />
+      </a>
+      <br>Bash
+    </td>
+     <td align="center" width="96">
+      <a href="https://ubuntu.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/Denver44">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Denver44&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=buefy&layout=compact" />
-</a>
+<br/>
 
+## ✨GitHub Stats :
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denver44&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denver44&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=radical&layout=compact" />
+</div>
 
 <br/>
 
+![Denver44 github activity graph](https://activity-graph.herokuapp.com/graph?username=Denver44&theme=dracula)
 
-⭐️ From [Denver](https://github.com/Denver44)  
-
+⭐️ From [Denver](https://github.com/Denver44)

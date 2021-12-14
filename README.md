@@ -1,5 +1,7 @@
 <h1 align="center"> Hello 👋 </h1>
 
+<br/>
+
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,6 +10,8 @@
 - 💻 &nbsp; Love to explore new tech
 - 💡 &nbsp; Electrical Engineer From GTU
 - 💬 &nbsp; Ask me about **React, JavaScript, Node.Js**
+
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,7 +25,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="CPP" />
       </a>
       <br>C++
     </td>
@@ -46,19 +50,19 @@
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="ReactJs" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="https://redux.org/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
     <td align="center"  width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48" alt="css" />
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48" alt="MaterialUI" />
       </a>
       <br>MaterialUI
     </td>
@@ -164,8 +168,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 <br/>
 

@@ -176,7 +176,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denver44&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denver44&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=radical&layout=compact&custom_title=Most used languages &langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&hide=" />
 </div>
 
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&layout=compact&custom_title=Most used languages &langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">

@@ -179,6 +179,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=radical&layout=compact" />
 </div>
 
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&layout=compact&custom_title=Most used languages &langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em"/>
+
 <br/>
 
 ![Denver44 github activity graph](https://activity-graph.herokuapp.com/graph?username=Denver44&theme=dracula)

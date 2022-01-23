@@ -176,7 +176,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denver44&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denver44&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&theme=radical&layout=compact" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denver44&layout=compact&langs_count=10&theme=radical">
 </div>
 
 <br/>

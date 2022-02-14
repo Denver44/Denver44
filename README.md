@@ -13,6 +13,12 @@
 
 <br/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
+
+<a href="https://bit.ly/linkedIn04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/linkedin.png" alt="lindIn" height="30" width="40" /></a>
+<a href="https://bit.ly/mytwitter04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/twitter.png" alt="twitter" height="30" width="40" /></a>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
   <table align="center">

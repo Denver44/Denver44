@@ -2,7 +2,7 @@
 
 <br/>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="23%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/businessman.png" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

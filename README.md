@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
-<a href="https://bit.ly/linkedIn04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/linkedin.png" alt="lindIn" height="30" width="40" /></a>
-<a href="https://bit.ly/mytwitter04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/twitter.png" alt="twitter" height="30" width="40" /></a>
+<a href="https://bit.ly/linkedIn04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/linkedin.png" alt="lindIn" height="30" width="30" /></a> &nbsp; &nbsp;
+<a href="https://bit.ly/mytwitter04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/twitter.png" alt="twitter" height="30" width="30" /></a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -126,9 +126,9 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" width="48" height="48" alt="mysql" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="postgreSql" />
       </a>
-      <br>MySql
+      <br>PostgreSql
     </td>
    <td align="center" width="96">
       <a href="https://git-scm.com/" >
@@ -154,11 +154,11 @@
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      <td align="center" width="96">
+      <a href="https://www.aws.com/" >
+        <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="48" height="48" alt="aws" />
       </a>
-      <br>Powershell
+      <br>Aws
     </td>
     <td align="center" width="96">
       <a href="#" >
@@ -172,7 +172,6 @@
       </a>
       <br>Ubuntu
     </td>
-  </tr>
 </table>
 
 <br/>

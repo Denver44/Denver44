@@ -13,12 +13,12 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social link :</h3>
 <p align="left"></p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/linkedIn04)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/mytwitter04)
-
+[![leetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/denver44)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

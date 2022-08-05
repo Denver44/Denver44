@@ -19,8 +19,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/linkedIn04)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/mytwitter04)
 
-<a href="https://bit.ly/linkedIn04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/linkedin.png" alt="lindIn" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://bit.ly/mytwitter04" target="blank"><img align="center" src="https://raw.githubusercontent.com/Denver44/Denver44/main/illustration/twitter.png" alt="twitter" height="30" width="30" /></a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
